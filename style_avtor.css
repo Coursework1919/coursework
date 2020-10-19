@@ -1,0 +1,56 @@
+body
+{
+	background-image: url(фон3.jpg);
+	margin: 0;
+	height: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+content label
+{
+	width: 20%;
+	display: block;
+	padding: 5px;
+	color: #FFFFFF;
+}
+
+content input
+ {
+	width: 20%;
+	display: block;
+	padding: 5px;
+	color: #000000;
+ }
+
+content button
+{
+	width: 15%;
+	padding:  10px;
+	background: #181818;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	color: #FFFFFF;
+	border-color: #585858;
+}
+
+content button:hover
+{
+	background: #585858;
+}
+
+.label1
+{
+	margin-top: 10%;
+}
+
+.label2
+{
+	margin-top: 10%;
+}
+
+.hrefregistration
+{
+	color: #FFFFFF;
+}
